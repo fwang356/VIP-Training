@@ -1,0 +1,2 @@
+/storage/home/hpaceice1/fwang356/sparc_run/sparc-dft-api/sparc/sparc_core.py:376: UserWarning: inital magentic moments were set on the provided atoms, bu the spin polarization flag has not been set. To run spin polarized pass in the flag `SPIN_TYP = 1`
+  warnings.warn(spin_warn)
