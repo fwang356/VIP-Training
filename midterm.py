@@ -19,7 +19,7 @@ hyd_energy = []
 oxy_energy = []
 reaction_energy = []
 error = []
-true = 285.8261
+true = 285.8261 * kJ / mol
 
 for x in grid_spacings:
   calc = SPARC(
@@ -34,9 +34,9 @@ for x in grid_spacings:
   hyd.set_calculator(calc)
   oxy.set_calculator(calc)
 
-  Ew = water.get_potential_energy() * mol / kJ
-  Eh = hyd.get_potential_energy() * mol / kJ
-  Eo = oxy.get_potential_energy() * mol / kJ
+  Ew = water.get_potential_energy()
+  Eh = hyd.get_potential_energy()
+  Eo = oxy.get_potential_energy()
   water_energy.append(Ew)
   hyd_energy.append(Eh)
   oxy_energy.append(Eo)
