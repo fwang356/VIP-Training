@@ -48,7 +48,7 @@ for x in grid_spacings:
 
 energy = [reaction_energy, water_energy, hyd_energy, oxy_energy, error]
 df = DataFrame (energy).transpose()
-df.columns = ["Reaction Energy (kJ/mol)", "H2O Energy (kJ/mol)", "H2 Energy (kJ/mol)", "O2 Energy (kJ/mol)", "Error (%)"]
+df.columns = ["Reaction Energy (eV)", "H2O Energy (eV)", "H2 Energy (eV)", "O2 Energy (eV)", "Error (%)"]
 df.index = grid_spacings
 print(df)
 df.to_csv(r'/storage/home/hpaceice1/fwang356/sparc_run/VIP-Training/energy.csv')
