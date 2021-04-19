@@ -1,0 +1,290 @@
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.6761275129126725	 time: 138.18461060523987
+test energy MAE: 4.708441103184107	 time: 27.703123092651367
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.710906813594977	 time: 136.41250109672546
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+test energy MAE: 4.745233314398734	 time: 27.284392595291138
+train energy MAE: 4.691426019189182	 time: 117.58919143676758
+test energy MAE: 4.7214142624844335	 time: 23.565598487854004
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.622602189498748	 time: 125.17277789115906
+test energy MAE: 4.672390913596679	 time: 25.074244022369385
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.726069666247192	 time: 128.49634170532227
+test energy MAE: 4.751597308274941	 time: 25.85319471359253
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.678599811910278	 time: 125.63366913795471
+test energy MAE: 4.7093580849918535	 time: 25.16197896003723
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 5.406027679354699	 time: 124.63492035865784
+test energy MAE: 5.411216514374223	 time: 24.76133131980896
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.658345145971741	 time: 121.61318445205688
+test energy MAE: 4.691612315800355	 time: 24.274324893951416
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.673932511953317	 time: 124.58676481246948
+train energy MAE: 4.681660567437777	 time: 122.87148237228394
+test energy MAE: 4.705050921314431	 time: 24.98213005065918
+test energy MAE: 4.713123277191411	 time: 24.712493181228638
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+['aspirin']
+{
+    "MCSHs": {
+        "0": {
+            "groups": [
+                1
+            ],
+            "sigmas": [
+                0.25
+            ]
+        }
+    },
+    "atom_gaussians": {
+        "H": "../valence_gaussians/H_pseudodensity_2.g",
+        "C": "../valence_gaussians/C_pseudodensity_4.g",
+        "O": "../valence_gaussians/O_pseudodensity_4.g"
+    },
+    "cutoff": 10.0
+}
+train energy MAE: 4.197437483341595	 time: 122.8512692451477
+test energy MAE: 4.224349061161291	 time: 24.599272966384888
+train energy MAE: 4.068696732761666	 time: 128.06588864326477
+test energy MAE: 4.139144296865712	 time: 24.562452793121338
